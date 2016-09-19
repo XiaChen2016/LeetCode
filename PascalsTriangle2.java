@@ -9,7 +9,7 @@ public class PascalsTriangle2 {
 
 	public static void main(String[] args) {
 		PascalsTriangle2 r = new PascalsTriangle2();
-		// Define rowIndex as 5
+		// Define rowIndex as 3
 		r.getRow(3);
 	}
 	
