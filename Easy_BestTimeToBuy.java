@@ -23,7 +23,6 @@ public class Easy_BestTimeToBuy {
     			min = prices[i];
     		profit = Math.max(profit, prices[i] - min );
     	}
-    	
     	return profit;
     }
 }
